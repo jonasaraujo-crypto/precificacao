@@ -1,4 +1,5 @@
 streamlit
+streamlit-option-menu
 flask
 flask_sqlalchemy
 psycopg2-binary
